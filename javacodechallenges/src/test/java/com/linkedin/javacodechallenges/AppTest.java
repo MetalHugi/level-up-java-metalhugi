@@ -13,7 +13,7 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
+    public void when_user_say_yes_then_continue_game()
     {
         assertTrue( true );
     }
